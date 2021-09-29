@@ -136,11 +136,17 @@ $ bash halo-cli.sh -u
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-11、[Gitter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/kokohuang/Gitter)：GitHub 的小程序客户端。UI 设计漂亮，可作为小程序和 GitHub 结合的实战项目学习
+11、[Gitter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/nslog11/Gitter)：GitHub 的小程序客户端。UI 设计漂亮，可作为小程序和 GitHub 结合的实战项目学习
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/Gitter.png' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[Motrix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/agalwood/Motrix)：桌面下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。界面简洁易用，采用 Vue + VueX + Element 的技术架构适合学习桌面应用开发
+12、[Motrix](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/agalwood/Motrix)：免费开源功能齐全的下载工具。技术展采用 Vue + VueX + Element，不仅界面简洁大方而且支持下载 BT、磁力链等资源。如果你受够了下载限速、弹框广告等，就快来 Motrix 享受“纯”下载的平静吧！技术栈适合学习桌面应用开发
+- 支持 Windows、Linux、macOS
+- 最高支持 10 个任务同时下载
+- 单任务最高支持 64 线程下载
+- 设置上传/下载限速
+- 移除任务时可同时删除相关文件
+- 等等
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/35/img/Motrix.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -268,7 +274,7 @@ doc.sentences[0].print_dependencies()
 
 ---
 <p align="center">
-    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 6 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/35/'>这里</a> 获取更好的阅读体验。
