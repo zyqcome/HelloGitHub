@@ -70,7 +70,7 @@
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/66/img/SteamTools.png' style="max-width:80%; max-height=80%;"></img></p>
 
 3、[xLua](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Tencent/xLua)：为 C#、Unity、.Net 等环境增添 Lua 脚本编程的能力，使得 Lua 代码方便地与 C# 相互调用
-```c#
+```
 XLua.LuaEnv luaenv = new XLua.LuaEnv();
 luaenv.DoString("CS.UnityEngine.Debug.Log('hello world')");
 luaenv.Dispose();
@@ -310,7 +310,7 @@ static void take_gil(PyThreadState *tstate)
 
 
 <p align="center">
-    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/65/HelloGitHub65.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | 『下一期』
+    <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/65/HelloGitHub65.md">『上一期』</a> | <a href='https://github.com/521xueweihan/HelloGitHub/issues/899'>反馈和建议</a> | <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/67/HelloGitHub67.md">『下一期』</a>
 </p>
 
 ---
